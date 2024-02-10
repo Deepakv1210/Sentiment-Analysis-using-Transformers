@@ -29,6 +29,12 @@ Construct a robust sentiment analysis model on the BERT backbone, fine-tuned wit
 ### Training and Evaluation
 Fine-tune the model on Yelp reviews, continuously monitoring and selecting the best-performing model for evaluation on unseen data.
 
+
+## Demo Results
+
+<img width="668" alt="image" src="https://github.com/Deepakv1210/Sentiment-Analysis-using-Transformers/assets/154148155/6cc79661-90a7-494b-ae0b-845b41eb75a7">
+
+
 ## Get Started
 
 Clone this repository and follow the instructions to unlock the potential of sentiment analysis using BERT Transformers on Yelp reviews.
